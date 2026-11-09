@@ -1,0 +1,7 @@
+:HL["/burland-preview/_next/static/chunks/00m-z-woqqo0h.css","style"]
+:HL["/burland-preview/_next/static/media/7015758c94fe7945-s.p.0ggqn9ig56u4s.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/burland-preview/_next/static/media/7a01dec39b324ce3-s.p.2_7gz-nbwppeo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/burland-preview/_next/static/media/a1b1d0384e6aa746-s.p.1q-jjomgjvbjf.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"guide-wedding","h":64,"c":"$Q2"}]]
+0:{"b":"Bk2KORbvy1WDwFNPcFncq","t":{"t":{"s":"","h":16,"c":"$Q1"}}}

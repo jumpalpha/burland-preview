@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"/burland-preview/_next/static/chunks/0cn_su9q48mem.js"
+4:I[39756,["$3"],"default"]
+5:I[37457,["$3"],"default"]
+a:"/burland-preview/_next/static/chunks/2eooouzg6ize9.js"
+b:I[88978,["$3","$a"],"GuideForm"]
+c:I[97367,["$3"],"OutletBoundary"]
+d:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$3"],"$10"]
+12:"MetadataBoundary"
+13:I[97367,["$3"],"$12"]
+7:X
+7:C
+8:X
+9:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$2","c",{"children":[["$","section",null,{"style":{"paddingTop":140},"children":["$","div",null,{"className":"container split","style":{"alignItems":"start"},"children":[["$","div",null,{"children":[["$","div",null,{"className":"eyebrow","children":"Free planning guides"}],["$","h1",null,{"style":{"fontSize":"clamp(2.2rem,4.5vw,3.2rem)"},"children":"Plan an event your family will never forget"}],["$","p",null,{"className":"lede","children":"Practical checklists, timelines, and ideas for your reunion or wedding. Print them or save them as a PDF."}]]}],["$","$Lb",null,{}]]}]}],[["$","script","script-0",{"src":"/burland-preview/_next/static/chunks/2eooouzg6ize9.js","async":true}]],["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$8"}}]]
+1:[["children",{"s":"guides","h":64,"d":{"r":["$","$2","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@6","v":"$7","s":"$8"},"c":"$Q9"}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L11",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#17231d"}]]}],["$","$L13",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Free Reunion and Wedding Planning Guides | The Burland"}],["$","meta","1",{"name":"description","content":"Free printable planning guides for family reunions and weddings, with checklists, timelines, and ideas from The Burland."}],["$","meta","2",{"name":"application-name","content":"The Burland"}],["$","meta","3",{"name":"robots","content":"noindex, nofollow"}],["$","link","4",{"rel":"canonical","href":"https://theburland.com/guides/"}],["$","meta","5",{"property":"og:title","content":"Free Reunion and Wedding Planning Guides"}],["$","meta","6",{"property":"og:description","content":"Free printable planning guides for family reunions and weddings, with checklists, timelines, and ideas from The Burland."}],["$","meta","7",{"property":"og:url","content":"https://theburland.com/guides/"}],["$","meta","8",{"property":"og:site_name","content":"The Burland"}],["$","meta","9",{"property":"og:locale","content":"en_US"}],["$","meta","10",{"property":"og:image","content":"https://theburland.com/img-ballroom-dinner-setup.jpg"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"Free Reunion and Wedding Planning Guides"}],["$","meta","14",{"name":"twitter:description","content":"Free printable planning guides for family reunions and weddings, with checklists, timelines, and ideas from The Burland."}],["$","meta","15",{"name":"twitter:image","content":"https://theburland.com/img-ballroom-dinner-setup.jpg"}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@14","v":null,"s":"$8"}},"a":"$@15","u":"$@16","b":"Bk2KORbvy1WDwFNPcFncq"}
+e:null
+16:true
+8:300
+8:C
+15:0
+6:"$undefined"
+14:"$undefined"
+f:"$undefined"
